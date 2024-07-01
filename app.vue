@@ -29,7 +29,7 @@ onMounted(() => {
 
 const items = [
   {
-    product_id: 'pri_01j18j2sv2epmw7aht1m9p7rzq', // Produkt ID zamiast priceId
+    price_id: 'pri_01j18j2sv2epmw7aht1m9p7rzq', // Produkt ID zamiast priceId
     quantity: 1
   }
 ];
